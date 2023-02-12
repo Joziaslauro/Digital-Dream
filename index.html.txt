@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Página de vendas</title>
+    <style>
+      body {
+        background-color: white;
+      }
+      footer {
+        background-color: #333;
+        color: white;
+        text-align: center;
+        padding: 1em;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Bem-vindo à nossa página de vendas</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt velit vel metus accumsan, a congue nisi dictum. Nunc iaculis magna ac enim blandit, eget blandit purus bibendum. Integer aliquet, nisl ut aliquam aliquet, est urna posuere quam, in tristique mi lacus in mi. Aliquam erat volutpat. Sed pellentesque nunc enim, id viverra diam dictum quis. In hac habitasse platea dictumst. Nam laoreet lacus vel ex bibendum, vel tincidunt velit viverra.</p>
+
+    <footer>
+      Esse site não faz parte nem é endossado pelo Facebook. O Facebook é uma empresa comercial da Meta.
+    </footer>
+  </body>
+</html>
